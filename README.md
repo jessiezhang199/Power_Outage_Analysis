@@ -1,5 +1,6 @@
 # Relationship Between Power Outages and Severe Weather
 This is a project for DSC 80 at UCSD
+
 **Name(s)**: Haoyang Yu, Jessie Zhang
 
 ### Introduction
