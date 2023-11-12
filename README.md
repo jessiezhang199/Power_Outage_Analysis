@@ -117,7 +117,7 @@ However, the influence on the CUSTOMERS.AFFECTED variable may be discerned throu
 - **Significance level**: 0.05
 <iframe src="assets/g5_2_1.html" width=800 height=600 frameBorder=0></iframe>
 <iframe src="assets/g5_2_2.html" width=800 height=600 frameBorder=0></iframe>
-<iframe src="assets/g5_2_3.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="assets/5_2_3.html" width=800 height=600 frameBorder=0></iframe>
 The p-value is approximately 0.85 , which is higher than our significance level. We fail to reject the null hypothesis, the missing data from CUSTOMERS.AFFECTED are not depends on TOTAL.PRICE.
 `
 **Step 5.2**:
@@ -126,7 +126,7 @@ The p-value is approximately 0.85 , which is higher than our significance level.
 - **Significance level**: 0.05
 <iframe src="assets/g5_1.html" width=800 height=600 frameBorder=0></iframe>
 <iframe src="assets/g5_1_2.html" width=800 height=600 frameBorder=0></iframe>
-<iframe src="assets/g5_1_3.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="assets/5_1_3.html" width=800 height=600 frameBorder=0></iframe>
 The p-value is approximately 0.011, which is lower than our significance level. We reject the null hypothesis. The missing data from CUSTOMERS.AFFECTED are depends on OUTAGE.DURATION.
 
 ### Hypothesis Testing
